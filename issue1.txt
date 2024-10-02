@@ -1,5 +1,5 @@
-"# issue1" 
+# issue1"
 
-dev1‚Å‚·B
+dev1ã§ã™ã€‚
 
 fixed in dev1...
